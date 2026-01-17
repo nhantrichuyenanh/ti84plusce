@@ -2,7 +2,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 
 | No. | Name (click to download) | Demo | Note |
 | :--- | :--- | :--- | :--- |
-| 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERSION.8xp) |  | Useful for ComSci I guess ¯\\__(ツ)__/¯ |
+| 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERSION.8xp) |  | Useful for ComSci I guess `¯\_(ツ)_/¯` |
 | 2 | [CIRCLE](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CIRCLE.8xp) |  |  |
 | 3 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) |  | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ |
 | 4 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) |  |  |
