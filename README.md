@@ -1,6 +1,6 @@
 In high school, I lost the calculator I had been using since junior high. Instead of buying a new one, my dad gave his TI-84 Plus CE calculator to me. Initially, I found it awkward and foreign to use it, but eventually, I couldn't imagine doing schoolwork without it. In case I ever need to reset my calculator and redownload the necessary programs, this repository will be useful.
 
-| <div align="center">No.</div> | <center>Name (click to download)</center> | <center>Demo</center> | <center>Note</center> |
+| <div align="center">No.</div> | <div align="center">Name (click to download)</div> | <center>Demo</center> | <center>Note</center> |
 | :--- | :--- | :--- | :--- |
 | 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERSION.8xp) | ![](/demo/BASECONV.png) | Useful for ComSci I guess `¯\_(ツ)_/¯` |
 | 2 | [CIRCLE](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CIRCLE.8xp) | ![](/demo/CIRCLE.png) | Not just another degrees to radians converter. |
