@@ -7,9 +7,9 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | :--- | :--- | :--- | :--- |
 | 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERTER.8xp) | ![](/demo/BASECONV.png) | Useful for ComSci I guess `¯\_(ツ)_/¯` |
 | 2 | [CIRCLE](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CIRCLE.8xp) | ![](/demo/CIRCLE.png) | Not just another degrees to radians converter. |
-| 3 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ |
+| 3 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ ERROR: NO SIGN CHANGE is completely normal. Just press ENTER or 1 and see the results. |
 | 4 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) | ![](/demo/FACTOR.png) | $$420 = 2^{2} \cdot 3 \cdot 5 \cdot 7$$ |
 | 5 | [LINEFIND](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LINEFIND.8xp) | ![](/demo/LINEFIND.png) | Quickly get the linear equation instead of manually calculating $y = ax + b$. |
 | 6 | [LOG](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LOGARITHM.8xp) | ![](/demo/LOGARITHM.png) | $$\log_{2}(8) = 3$$ |
-| 7 | [POLYFACT](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALFACTORING.8xp) | ![](/demo/POLYFACT.png) | $$x^3 - x = x(x + 1)(x - 1)$$ |
+| 7 | [POLYFACT](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALFACTORING.8xp) | ![](/demo/POLYFACT.png) | $$x^3 - x = x(x + 1)(x - 1)$$ As of writing this, I don't know how to fix the issue of not being able to exit out. A band-aid solution would be to just reboot the calculator. |
 | 8 | [TRIGONOM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRIC.8xp) | ![](/demo/TRIGONOM.png) | Degree also works. |
