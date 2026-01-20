@@ -7,7 +7,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | :--- | :--- | :--- | :--- |
 | 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERTER.8xp) | ![](/demo/BASECONV.png) | Useful for ComSci I guess `¯\_(ツ)_/¯` |
 | 2 | [CIRCLE](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CIRCLE.8xp) | ![](/demo/CIRCLE.png) | Not just another degrees to radians converter. |
-| 3 | [DISMID](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/DISTANCEMIDPOINT.8xp) | ![](/demo/DISMID.png) |  |
+| 3 | [DISMID](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/DISTANCEMIDPOINT.8xp) | ![](/demo/DISMID.png) | On a plane. |
 | 4 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ <br> ERROR: NO SIGN CHANGE is completely normal. Just press ENTER or 1 and see the results. |
 | 5 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) | ![](/demo/FACTOR.png) | $$420 = 2^{2} \cdot 3 \cdot 5 \cdot 7$$ |
 | 6 | [LINEFIND](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LINEFIND.8xp) | ![](/demo/LINEFIND.png) | Quickly get the linear equation instead of manually calculating $y = ax + b$. |
