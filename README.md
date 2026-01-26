@@ -13,5 +13,5 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | 6 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) | ![](/demo/FACTOR.png) | $$420 = 2^{2} \cdot 3 \cdot 5 \cdot 7$$ |
 | 7 | [LOG](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LOGARITHM.8xp) | ![](/demo/LOG.png) | $$\log_{2}(8) = 3$$ |
 | 8 | [POLYFACT](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALFACTORING.8xp) | ![](/demo/POLYFACT.png) | $$x^3 - x = x(x + 1)(x - 1)$$ <br> As of writing this, I don't know how to fix the issue of not being able to exit out. A band-aid solution would be to just reboot the calculator. |
-| 9 | [POLYINTP](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMINALINTERPOLATION.8xp) | ![](/demo/POLYINTP.png) |$$Y=X^2$$ <br> • Linear: 2 <br> • Quadratic: 3 <br> • Cubic: 4 <br> • Quartic: 5 |
+| 9 | [POLYINTP](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMINALINTERPOLATION.8xp) | ![](/demo/POLYINTP.png) |$$Y=X^2-2X-1$$ <br> • Linear: 2 <br> • Quadratic: 3 <br> • Cubic: 4 <br> • Quartic: 5 |
 | 10 | [TRIGONOM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRIC.8xp) | ![](/demo/TRIGONOM.png) | Degree also works. |
