@@ -7,9 +7,9 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | :--- | :--- | :--- | :--- |
 | 1 | [BASECONV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/BASECONVERTER.8xp) | ![](/demo/BASECONV.png) | Useful for ComSci I guess `¯\_(ツ)_/¯` |
 | 2 | [CIRCLE](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CIRCLE.8xp) | ![](/demo/CIRCLE.png) | Not just another degrees to radians converter. |
-| 3 | [CLEARRAM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CLEARRAM.8xp) | ![](/demo/CLEARRAM.png) | Doesn't clear the functions in the Y= editor, because there is no command for it `:(`  |
+| 3 | [CLEARRAM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/CLEARRAM.8xp) | ![](/demo/CLEARRAM.png) | Doesn't clear the functions in the Y= editor, because there is no command for it `:(` |
 | 4 | [DISMID](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/DISTANCEMIDPOINT.8xp) | ![](/demo/DISMID.png) | Quickly calculate distance and midpoint of two points. |
-| 5 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ <br> ERROR: NO SIGN CHANGE is completely normal. Just press ENTER or 1 and see the results. |
+| 5 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ <br> - ERROR: NO SIGN CHANGE is completely normal. Just press ENTER or 1 and see the results. <br> - Because this program inputs statement as string, you can't write it in MATHPRINT. |
 | 6 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) | ![](/demo/FACTOR.png) | $$420 = 2^{2} \cdot 3 \cdot 5 \cdot 7$$ |
 | 7 | [LINEFIND](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LINEFIND.8xp) | ![](/demo/LINEFIND.png) | Quickly get the linear equation instead of manually calculating $y = ax + b$. |
 | 8 | [LOG](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LOGARITHM.8xp) | ![](/demo/LOG.png) | $$\log_{2}(8) = 3$$ |
