@@ -11,7 +11,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | 4 | [DISMID](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/DISTANCEMIDPOINT.8xp) | ![](/demo/DISMID.png) | Quickly calculate distance and midpoint of two points. |
 | 5 | [EQSOLVER](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/EQUATIONSOLVER.8xp) | ![](/demo/EQSOLVER.png) | $$5^{x^2 - 4x} = \frac{1}{25^{(x-2)}}$$ <br> - ERROR: NO SIGN CHANGE is completely normal. Just press ENTER or 1 and see the results. <br> - Because this program inputs statement as string, you can't write it in MATHPRINT. |
 | 6 | [FACTOR](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/FACTOR.8xp) | ![](/demo/FACTOR.png) | $$420 = 2^{2} \cdot 3 \cdot 5 \cdot 7$$ |
-| 7 | [LINEFIND](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LINEFIND.8xp) | ![](/demo/LINEFIND.png) | Quickly get the linear equation instead of manually calculating $y = ax + b$. |
+| 7 | [LINEFIND](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LINEFIND.8xp) | ![](/demo/LINEFIND.png) |  |
 | 8 | [LOG](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/LOGARITHM.8xp) | ![](/demo/LOG.png) | $$\log_{2}(8) = 3$$ |
 | 9 | [POLYFACT](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALFACTORING.8xp) | ![](/demo/POLYFACT.png) | $$x^3 - x = x(x + 1)(x - 1)$$ <br> As of writing this, I don't know how to fix the issue of not being able to exit out. A band-aid solution would be to just reboot the calculator. |
 | 10 | [TRIGONOM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRIC.8xp) | ![](/demo/TRIGONOM.png) | Degree also works. |
