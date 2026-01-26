@@ -1,6 +1,5 @@
 >[!NOTE]
 > The programs down below are modified for the math curriculum I'm studying as of writing this. Feel free to edit the source code.
-> CIRCLE WIP: add Return option in R<>D Cnv, add Formulae above Quit
 
 In high school, I lost the calculator I had been using since junior high. Instead of buying a new one, my dad gave me his TI-84 Plus CE calculator. Initially, I found it awkward and foreign to use, but eventually, I couldn't imagine doing schoolwork without it. I plan to use it well into college, so I need to keep track of programs I use and don't use. In case I ever need to reset my calculator and reinstall the necessary programs, this repository will be useful.
 
