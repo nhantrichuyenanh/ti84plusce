@@ -16,6 +16,6 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | 9 | [TRIGONOM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRIC.8xp) | ![](/demo/TRIGONOM.png) | Degree also works. |
 
 > [!IMPORTANT]
-> * CIRCLE: I plan to add `Formulae`, though I can't promise anything.
-> * FACTOR: This program could benefit some refactoring for performance, but it's good as it is.
-> * POLYFACT: Do away with the Graph menu and substitute it for the Home screen.
+> * *CIRCLE: add `Formulae` (can't promise anything)
+> * *FACTOR: refactor for more performance
+> * *POLYFACT: substitute the Graph menu for the Home screen
