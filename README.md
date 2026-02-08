@@ -17,9 +17,6 @@ In high school, I lost the calculator I had been using since junior high. Instea
 
 > [!IMPORTANT]
 > *TODO:
-> 
-> CIRCLE: I plan to add `Formulae`, though I can't promise anything.
-> 
-> FACTOR: This program could benefit some refactoring for performance, but it's good as it is.
-> 
-> POLYFACT: Do away with the Graph menu and substitute it for the Home screen.
+> - CIRCLE: I plan to add `Formulae`, though I can't promise anything.
+> - FACTOR: This program could benefit some refactoring for performance, but it's good as it is.
+> - POLYFACT: Do away with the Graph menu and substitute it for the Home screen.
