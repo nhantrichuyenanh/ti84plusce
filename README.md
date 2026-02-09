@@ -14,7 +14,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | 7* | [POLYFACT](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALFACTORING.8xp) | ![](/demo/POLYFACT.png) | $x(x + 1)(x - 1)$ <br> • Once result is displayed, you can press ENTER to exit the program. <br> • This program uses the Graph menu to display the result. |
 | 8 | [POLYMD](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMIALMULTIPLICATIONDIVISION.8xp) | ![](/demo/POLYMD1.png) ![](/demo/POLYMD2.png) | $$(2x+3)(x−5)=2x^2−7x−15$$ <br> $$\frac{2x^3+5x^2−3x−9}{x+3}=2x^2−x$$ <br> Remainder: $−9$ <br> • Please wrap every polynomial in parentheses. <br> • The program will return incorrect coeffficients and remainders if dividend is a sparse polynomial. |
 | 9 | [POLYINTP](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/POLYNOMINALINTERPOLATION.8xp) | ![](/demo/POLYINTP.png) | $$y=x^2-2x-1$$ <br> Once graph is drawn, you can press CLEAR to exit the program. <br> • Linear: 2 <br> • Quadratic: 3 (weird because for $-x^2+4x$ I have to input 4 points...) <br> • Cubic: 4 <br> • Quartic: 5 |
-| 10 | [TRIGONOM](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRIC.8xp) | ![](/demo/TRIGONOM.png) | Degree also works. |
+| 10 | [TRIGEV](https://raw.githubusercontent.com/nhantrichuyenanh/ti84plusce/main/pgrm/TRIGONOMETRYEXACTVALUE.8xp) | ![](/demo/TRIGEV.png) | $sin(18°)$ |
 
 > [!IMPORTANT]
 > Update:
