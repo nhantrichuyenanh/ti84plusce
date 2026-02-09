@@ -18,7 +18,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 
 > [!IMPORTANT]
 > Update:
-> - CIRCLE: add `Formulae` (can't promise anything)
+> - CIRCLE: merge `TRIGEV` program into it
 > - FACTOR: refactor (word play?! `o_O`) for more performance
 > - POLYFACT: substitute the Graph menu for the Home screen
 > 
