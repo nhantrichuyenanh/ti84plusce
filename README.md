@@ -21,6 +21,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 > - CIRCLE: add `Formulae` (can't promise anything)
 > - FACTOR: refactor (word play?! `o_O`) for more performance
 > - POLYFACT: substitute the Graph menu for the Home screen
+> 
 > Browse: find good programs to add to the table
 > - [Math](https://www.ticalc.org/pub/83plus/basic/math/)
 > - [Science](https://www.ticalc.org/pub/83plus/basic/science/)
