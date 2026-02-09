@@ -18,5 +18,5 @@ In high school, I lost the calculator I had been using since junior high. Instea
 
 > [!IMPORTANT]
 > - CIRCLE: add `Formulae` (can't promise anything)
-> - FACTOR: refactor for more performance
+> - FACTOR: refactor (word play?! `o_O`) for more performance
 > - POLYFACT: substitute the Graph menu for the Home screen
